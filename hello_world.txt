@@ -1,0 +1,2 @@
+This is a test
+on our way of learning how to code w html,css and js!
